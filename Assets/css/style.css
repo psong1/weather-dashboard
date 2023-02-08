@@ -1,6 +1,6 @@
 h1 {
-	background-color: darkgrey;
 	text-align: center;
+	color: azure;
 }
 label {
 	margin-top: 10px;
@@ -10,13 +10,7 @@ label {
 .card {
 	margin: 10px;
 }
-.colOne {
-	background-color: white;
-	/* darkkhaki */
-}
-.colTwo {
-	background-color: rgb(255, 255, 255);
-}
+
 .histBtnRow {
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -47,4 +41,5 @@ label {
 .card {
 	width: 95%;
 	height: 20%;
+	color: azure;
 }
