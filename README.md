@@ -18,4 +18,4 @@ This simple five-day weather dashboard allows users to search for a specific cit
 
 ## Deployed Page URL
 
-*
+* https://psong1.github.io/weather-dashboard/
