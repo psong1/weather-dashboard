@@ -14,7 +14,7 @@ This simple five-day weather dashboard allows users to search for a specific cit
 
 ## Preview of Deployed Application
 
-![img](/Assets/images/weather-preview.jpg)
+![img](/assets/images/weather-preview.jpg)
 
 ## Deployed Page URL
 
